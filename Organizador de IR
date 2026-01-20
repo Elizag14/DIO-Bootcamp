@@ -1,0 +1,151 @@
+📘 **ORGANIZADOR DE IMPOSTO DE RENDA 2025**
+**README – Guia de Uso da Planilha**
+
+Esta planilha foi criada para auxiliar na organização das informações necessárias para a Declaração do Imposto de Renda Pessoa Física (IRPF) 2025. Centraliza dados pessoais, rendimentos, despesas dedutíveis, bens, dívidas e dependentes, além de apresentar um resumo estimado da declaração.
+
+---
+
+## 📋 Estrutura da Planilha
+
+A planilha é dividida em abas temáticas:
+
+* **Dados Pessoais** – Informações cadastrais do declarante (✓ preenchível)
+* **Rendimentos** – Salários, autônomo, aluguéis, aposentadoria, entre outros (⚠ atenção)
+* **Despesas Dedutíveis** – Saúde, educação e previdência (⚠ atenção)
+* **Bens e Direitos** – Imóveis, veículos, contas e investimentos (✗ não preenchido)
+* **Dívidas e Ônus** – Empréstimos, financiamentos e cartões (✗ não preenchido)
+* **Dependentes** – Cadastro de dependentes (✓ preenchível)
+
+---
+
+## 💡 Instruções Gerais
+
+* Preencha cada aba conforme indicado.
+* Utilize listas suspensas quando disponíveis.
+* Campos obrigatórios estão identificados com *****.
+
+---
+
+## 📝 Dados Pessoais do Declarante
+
+Informações necessárias para identificação no IRPF:
+
+* Nome completo, CPF e data de nascimento (obrigatórios)
+* Endereço completo (CEP, cidade e estado)
+* Telefone e e-mail
+* Ocupação principal
+
+Esses dados são utilizados diretamente na declaração oficial.
+
+---
+
+## 💰 Rendimentos Tributáveis
+
+Registro de todos os valores recebidos no ano:
+
+* Salário / Pró-labore
+* Aluguéis
+* Aposentadoria ou pensão
+* Trabalho autônomo
+* Outros rendimentos
+
+Para cada rendimento informe:
+
+* Fonte pagadora
+* CNPJ/CPF
+* Valor total recebido
+* Imposto retido na fonte
+
+A planilha calcula automaticamente os totais.
+
+---
+
+## 🏥 Despesas Dedutíveis
+
+Controle de despesas que reduzem a base de cálculo:
+
+**Saúde (sem limite de dedução):**
+
+* Médicos e dentistas
+* Plano de saúde
+* Exames e internações
+
+**Educação (limite anual de R$ 3.561,50 por pessoa):**
+
+* Educação infantil
+* Ensino fundamental e médio
+* Ensino superior
+
+**Previdência:**
+
+* INSS (sem limite)
+* Previdência privada PGBL (até 12% da renda bruta)
+
+---
+
+## 🏠 Bens e Direitos
+
+Registro do patrimônio do contribuinte:
+
+* Imóveis
+* Veículos
+* Contas bancárias
+* Investimentos
+
+Informações por bem:
+
+* Código do tipo
+* Descrição
+* Saldo em 31/12/2024 e 31/12/2025
+* Percentual de propriedade
+
+---
+
+## 💳 Dívidas e Ônus Reais
+
+Controle de obrigações financeiras:
+
+* Financiamentos imobiliários
+* Financiamentos de veículos
+* Empréstimos bancários
+* Cartão de crédito parcelado
+
+Inclui saldos em 31/12/2024 e 31/12/2025.
+
+---
+
+## 👨‍👩‍👧‍👦 Dependentes
+
+Cadastro de dependentes permitidos pela Receita Federal:
+
+* Filhos
+* Cônjuge
+* Enteados
+* Pais e avós
+* Menores sob guarda
+
+Cada dependente gera dedução anual de **R$ 2.275,08**.
+
+---
+
+## 📊 Resumo da Declaração
+
+Resumo automático com:
+
+* Total de rendimentos tributáveis
+* Total de imposto retido
+* Deduções (saúde, educação, previdência e dependentes)
+* Total de bens, dívidas e patrimônio líquido
+* Base de cálculo estimada
+
+---
+
+⚠ **Atenção:** os valores apresentados são estimativas. A apuração final deve ser feita no programa oficial da Receita Federal ou com o auxílio de um contador.
+
+---
+
+## 🔗 Links Úteis
+
+* Receita Federal – Meu Imposto de Renda
+* Download do Programa IRPF
+* Tabela Progressiva do Imposto de Renda
